@@ -15,8 +15,8 @@ To create a pipeline you can also use
 
 ## Kubeflow pipeline view 
 
-!https://github.com/devops-mlops-self-projects/logisticregression-model-training/blob/main/images/kubeflow-pipeline.PNG
+!Kubeflow Pipeline
 
 ## Model training steps
 
-!https://github.com/devops-mlops-self-projects/logisticregression-model-training/blob/main/images/train-model.png
+!Training Model
