@@ -11,3 +11,12 @@ This repo has data to train a supervised logisticregression model
 To create a pipeline you can also use 
 
 `python kubeflow-dsl-pipeline.py`
+
+
+## Kubeflow pipeline view 
+
+! https://github.com/devops-mlops-self-projects/logisticregression-model-training/blob/main/images/kubeflow-pipeline.PNG
+
+## Model training steps
+
+! https://github.com/devops-mlops-self-projects/logisticregression-model-training/blob/main/images/train-model.png
