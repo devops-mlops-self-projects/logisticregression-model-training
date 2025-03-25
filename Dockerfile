@@ -6,10 +6,5 @@ COPY ca.crt /usr/local/share/ca-certificates/
 COPY ca-cert-chain.crt /usr/local/share/ca-certificates/
 RUN update-ca-certificates
 
-# Install certifi
-RUN pip install certifi
-
-# Install kfp package
-RUN pip install kfp==2.12.1
-
-RUN pip install pandas scikit-learn joblib kfp-kubernetes
+# Install all package
+RUN pip install certifi kfp==2.12.1 pandas scikit-learn joblib kfp-kubernetes
