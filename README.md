@@ -8,7 +8,9 @@ This repo has data to train a supervised logisticregression model
 
 ## Created PVC called my-pvc and used in the dsl python files which have componets and pipeline . 
 
-To create a pipeline you can also use 
+1 . Create PVC called **my-pvc** as I have used that in my pipeline .
+
+2 . To create a pipeline you can also use 
 
 `python kubeflow-dsl-pipeline.py`
 
